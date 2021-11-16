@@ -1,0 +1,1 @@
+pm.environment.set("access_token", "variable_value");
